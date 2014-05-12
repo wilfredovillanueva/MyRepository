@@ -19,7 +19,6 @@ import android.graphics.BitmapFactory;
 import android.util.Log;
 
 public class IotdHandler extends DefaultHandler {
-	private static final String TAG = IotdHandler.class.getSimpleName();
 	private String url = "http://www.nasa.gov/rss/dyn/image_of_the_day.rss";
 	private boolean inUrl = false;
 	private boolean inTitle = false;
@@ -51,7 +50,7 @@ public class IotdHandler extends DefaultHandler {
         }
 	}
 	
-	private Bitmap getBitmap(String url){
+	public Bitmap getBitmap(String url){
 		System.out.println("getbitmap");
 		System.out.println(url);
 		try{
@@ -166,7 +165,7 @@ public class IotdHandler extends DefaultHandler {
 //	}
 
 	public String getUrl() {
-		return url;
+		return urlImagen;
 	}
 
 	public StringBuffer getDescription() {
