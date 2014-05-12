@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Image of the Day</title>
+ <description>The latest NASA &quot;Image of the Day&quot; image.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" />
+ <language>en-us</language>
+ <managingEditor>yvette.smith-1@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+ <item> <title>Spacewalk Training at the Neutral Buoyancy Laboratory</title>
+ <link>http://www.nasa.gov/content/spacewalk-training-at-the-neutral-buoyancy-laboratory</link>
+ <description>In this image taken on Nov. 7, 2012, NASA astronaut Reid Wiseman and European Space Agency astronaut Alexander Gerst (partially obscured), both Expedition 40/41 flight engineers, attired in training versions of their Extravehicular Mobility Unit (EMU) spacesuits, are submerged in the waters of the Neutral Buoyancy Laboratory (NBL) near NASA&#039;s Johnson Space Center. Divers (out of frame) are in the water to assist Wiseman and Gerst in their rehearsal, which is intended to help prepare them for work on the exterior of the International Space Station.
+Wiseman, Gerst and Maxim Suraev of the Russian Federal Space Agency (Roscosmos) will launch to the space station aboard a Soyuz spacecraft on May 28, 2014, from the Baikonur Cosmodrome in Kazakhstan. They are scheduled to return to Earth in November.
+Image Credit: NASA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/jsc2012e237446.jpg?itok=lqBpLJdh" length="1481490" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/spacewalk-training-at-the-neutral-buoyancy-laboratory</guid>
+ <pubDate>Fri, 09 May 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Saturn&#039;s C and B Rings From the Inside Out</title>
+ <link>http://www.nasa.gov/content/saturns-c-and-b-rings-from-the-inside-out</link>
+ <description>On July 1, 2004, NASA&#039;s Cassini spacecraft arrived at Saturn, marking the end of the spacecraft&#039;s nearly seven-year journey through the solar system as well as the beginning of its tour of Saturn, its rings, moons and magnetosphere.
+This image, taken on June 30, 2004 during Cassini&#039;s orbital insertion at Saturn, shows, from left to right, the outer portion of the C ring and inner portion of the B ring. The B ring begins a little more than halfway across the image. The general pattern is from &quot;dirty&quot; particles indicated by red to cleaner ice particles shown in turquoise in the outer parts of the rings.
+The ring system begins from the inside out with the D, C, B and A rings followed by the F, G and E rings.
+This image was taken with the Ultraviolet Imaging Spectrograph instrument, which is capable of resolving the rings to show features up to 97 kilometers (60 miles) across, roughly 100 times the resolution of ultraviolet data obtained by the Voyager 2 spacecraft.
+Image Credit: NASA/JPL/University of Colorado</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/pia05076.jpg?itok=AASBaXis" length="1398117" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/saturns-c-and-b-rings-from-the-inside-out</guid>
+ <pubDate>Thu, 08 May 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Inside the Flame Nebula</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/multimedia/flame-nebula.html</link>
+ <description>Stars are often born in clusters, in giant clouds of gas and dust. Astronomers have studied two star clusters using NASA&#039;s Chandra X-ray Observatory and infrared telescopes and the results show that the simplest ideas for the birth of these clusters cannot work, as described in our latest press release.
+This composite image shows one of the clusters, NGC 2024, which is found in the center of the so-called Flame Nebula about 1,400 light years from Earth. In this image, X-rays from Chandra are seen as purple, while infrared data from NASA&#039;s Spitzer Space Telescope are colored red, green, and blue.
+A study of NGC 2024 and the Orion Nebula Cluster, another region where many stars are forming, suggest that the stars on the outskirts of these clusters are older than those in the central regions. This is different from what the simplest idea of star formation predicts, where stars are born first in the center of a collapsing cloud of gas and dust when the density is large enough.
+The research team developed a two-step process to make this discovery. First, they used Chandra data on the brightness of the stars in X-rays to determine their masses. Next, they found out how bright these stars were in infrared light using data from Spitzer, the 2MASS telescope, and the United Kingdom Infrared Telescope. By combining this information with theoretical models, the ages of the stars throughout the two clusters could be estimated.
+According to the new results, the stars at the center of NGC 2024 were about 200,000 years old while those on the outskirts were about 1.5 million years in age. In Orion, the age spread went from 1.2 million years in the middle of the cluster to nearly 2 million years for the stars toward the edges.
+Explanations for the new findings can be grouped into three broad categories. The first is that star formation is continuing to occur in the inner regions. This could have happened because the gas in the outer regions of a star-forming cloud is thinner and more diffuse than in the inner regions. Over time, if the density falls below a threshold value where it can no longer collapse to form stars, star formation will cease in the outer regions, whereas stars will continue to form in the inner regions, leading to a concentration of younger stars there.
+Another suggestion is that old stars have had more time to drift away from the center of the cluster, or be kicked outward by interactions with other stars. Finally, the observations could be explained if young stars are formed in massive filaments of gas that fall toward the center of the cluster.
+The combination of X-rays from Chandra and infrared data is very powerful for studying populations of young stars in this way. With telescopes that detect visible light, many stars are obscured by dust and gas in these star-forming regions, as shown in this optical image of the region.
+NASA&#039;s Marshall Space Flight Center in Huntsville, Ala., manages the Chandra program for NASA&#039;s Science Mission Directorate in Washington. The Smithsonian Astrophysical Observatory in Cambridge, Mass., controls Chandra&#039;s science and flight operations.
+Image credit: X-ray: NASA/CXC/PSU/K.Getman, E.Feigelson, M.Kuhn &amp; the MYStIX team; Infrared:NASA/JPL-Caltech
+› View large image
+	› Chandra on Flickr</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/flame.jpg?itok=05bhVr2L" length="975031" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/multimedia/flame-nebula.html</guid>
+ <pubDate>Wed, 07 May 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Earth&#039;s Atmospheric Layers</title>
+ <link>http://www.nasa.gov/content/earths-atmospheric-layers</link>
+ <description>International Space Station astronauts captured this photo of Earth&#039;s atmospheric layers on July 31, 2011, revealing the troposphere (orange-red), stratosphere and above. Satellite instruments allow scientists to better understand the chemistry and dynamics occurring within and between these layers.
+NASA monitors Earth’s vital signs from land, air and space with a fleet of satellites and ambitious and ground-based observation campaigns. NASA develops new ways to observe and study Earth’s interconnected natural systems with long-term data records and computer analysis tools to better see how our planet is changing. The agency shares this unique knowledge with the global community and works with institutions in the United States and around the world that contribute to understanding and protecting our home planet.
+&gt; National Climate Assessment
+	&gt; Administrator&#039;s Blog: NASA&#039;s Role in Climate Assessment
+	&gt; Earth Right Now
+Image Credit: NASA/JSC Gateway to Astronaut Photography of Earth</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/earth20140425_0_1.jpg?itok=16ZR4BlT" length="729134" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/earths-atmospheric-layers</guid>
+ <pubDate>Tue, 06 May 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>View of the Earth From the Freedom 7 Mercury Capsule</title>
+ <link>http://www.nasa.gov/topics/history/milestones/earthinspace.html</link>
+ <description>On May 5, 1961, astronaut Alan B. Shepard, Jr. had a view of Earth that no American had seen before, looking down on the home planet from the Freedom 7 Mercury capsule on his history-making suborbital flight. The 15 minute flight lifted him to an altitude of over 116 miles and a maximum speed of 5,134 miles per hour. During the flight, Shepard reported seeing the outlines of the west coast of Florida and the Gulf of Mexico, along with Florida&#039;s Lake Okeechobee.
+&gt; Pioneering Mercury Astronauts Launched America&#039;s Future
+Image Credit: NASA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/images/535509main_EarthObservations_full.jpg?itok=XZwF9GAb" length="531884" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/topics/history/milestones/earthinspace.html</guid>
+ <pubDate>Mon, 05 May 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Active Dune Field on Mars</title>
+ <link>http://www.nasa.gov/content/active-dune-field-on-mars</link>
+ <description>Nili Patera is one of the most active dune fields on Mars. As such, it is continuously monitored with the HiRISE (High Resolution Imaging Science Experiment) camera, a science instrument aboard NASA&#039;s Mars Reconnaissance Orbiter, with a new image acquired about every six weeks.
+By monitoring the sand dune changes, we can determine how winds vary seasonally and year-to-year. This observation is one of the more recent Nili images, acquired on March 1, 2014. Compared to an image acquired on Nov. 22, 2012, changes are obvious. The ripples on the dunes have moved, as well some of the dune boundaries, such as the one at upper left. New landslides on the central dune&#039;s lee face are apparent.
+Such changes, in just 16 months (and finer scale changes have been seen in just a couple of weeks), demonstrate the effectiveness of wind in modifying the Martian landscape.
+HiRISE is one of six instruments on NASA&#039;s Mars Reconnaissance Orbiter. The University of Arizona, Tucson, operates the orbiter&#039;s HiRISE camera, which was built by Ball Aerospace &amp; Technologies Corp., Boulder, Colo. NASA&#039;s Jet Propulsion Laboratory, a division of the California Institute of Technology in Pasadena, manages the Mars Reconnaissance Orbiter Project for the NASA Science Mission Directorate, Washington.
+&gt; More information and image products
+Image Credit: NASA/JPL-Caltech/Univ. of Arizona
+	Caption: Nathan Bridges</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/pia18244.jpg?itok=kYIb7Ck8" length="786723" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/active-dune-field-on-mars</guid>
+ <pubDate>Fri, 02 May 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Early Tracking and Communication Facilities at Goddard Space Flight Center</title>
+ <link>http://www.nasa.gov/content/early-tracking-and-communication-facilities-at-goddard-space-flight-center</link>
+ <description>Named for American rocketry pioneer Dr. Robert H. Goddard, NASA&#039;s Goddard Space Flight Center was established on May 1, 1959, as NASA&#039;s first space flight complex.
+In the 1960s, when this image was taken, Goddard focused on the development of tracking and communication facilities and capabilities for both the scientific satellites and the manned space flight program. Goddard became the hub of the massive, international tracking and communications network that involved aircraft, supertankers converted into mobile communications units, and a wide diversity of ground stations. A duplicate mission control center was also built at Goddard in case the computers at the main control room at the Johnson Space Center in Houston, Texas failed for any reason.
+&gt; About Dr. Robert H. Goddard
+Image Credit: NASA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/341270main_control_full.jpg?itok=xa4U-0VW" length="177978" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/early-tracking-and-communication-facilities-at-goddard-space-flight-center</guid>
+ <pubDate>Thu, 01 May 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Volcanic Plume Over Southern Atlantic Ocean Revealed Through False-Color Imagery</title>
+ <link>http://www.nasa.gov/content/volcanic-plume-over-southern-atlantic-ocean-revealed-through-false-color-imagery</link>
+ <description>The South Sandwich Islands, in the far southern Atlantic Ocean, are often shrouded with thick cloud, making it difficult to view the region from space. Sometimes, however, the use of false-color imagery can be used to reveal events that would otherwise be obscured under cloud cover.
+The Moderate Resolution Imaging Spectroradiometer (MODIS) aboard NASA’s Aqua satellite flew over the South Sandwich Islands on April 19, 2014 and acquired this false-color image of the cloudy scene.
+This false-color image uses a combination of non-visible (middle infrared and infrared) and visible (red) light captured in bands 7, 2, and 1, respectively, to distinguish clouds from snow and ice. Here the ice-covered islands appear bright turquoise, the clouds light turquoise and the water in the ocean appears deep black. Because the volcanic plume is a moist mixture of gas and ash, it reflects all three forms of light relatively well, so it appears nearly white.
+In the north of this image, a thin plume of white rises from the volcano on Zavodovski island, the northernmost of the South Sandwich Islands and streams to the northeast. Further south, a wider white plume can be seen blowing across the Atlantic Ocean. This plume rises from the Mount Michael volcano, which is a young and frequently active stratovolcano located on Saunders Island, near the center of the South Sandwich Island chain.
+The white plume from Mount Michael forms a chain of swirling eddies as it blows to the northeast. To the south, similar eddies can be seen behind three other islands. These are known as Von Kármán vortices. These vortices can form nearly anywhere that fluid flow is disturbed by an object. Because the atmosphere behaves like a fluid, when streaming air hits a blunt object, such as a mountain peak, the wind is forced around the object. The disturbance in the flow of the wind propagates downstream in a double row of vortices that alternate their direction of rotation, much like the eddies seen behind a pier in a river as water rushes past.
+Image Credit: Jeff Schmaltz/MODIS Land Rapid Response Team, NASA GSFC</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/image04302014_250m.jpg?itok=f2PvR5-o" length="2316933" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/volcanic-plume-over-southern-atlantic-ocean-revealed-through-false-color-imagery</guid>
+ <pubDate>Wed, 30 Apr 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Me and My Shadow</title>
+ <link>http://www.nasa.gov/jpl/cassini/pia17162</link>
+ <description>Saturn&#039;s rings cast shadows on the planet, but the shadows appear to be inside out! The edge of Saturn&#039;s outermost A ring can be seen at the top left corner of the image.  Moving towards the bottom of the page, one can see the faint Cassini Division, the opaque B ring and the innermost C ring, which contains several ringlets that appear dark against Saturn in this geometry.  The bottom half of the image features the shadows of these rings in reverse order superposed against the disk of the planet: the C ring, the B ring, the Cassini Division and the inner half of the A ring.
+This view looks toward the unilluminated side of the rings from about 28 degrees below the ringplane. The image was taken with the Cassini spacecraft wide-angle camera on Dec. 2, 2013, using a spectral filter which preferentially admits wavelengths of near-infrared light centered at 752 nanometers.
+The view was acquired at a distance of approximately 750,000 miles (1.2 million kilometers) from Saturn and at a Sun-Saturn-spacecraft, or phase, angle of 57 degrees. Image scale is 45 miles (72 kilometers) per pixel.
+The Cassini-Huygens mission is a cooperative project of NASA, the European Space Agency and the Italian Space Agency. The Jet Propulsion Laboratory, a division of the California Institute of Technology in Pasadena, manages the mission for NASA&#039;s Science Mission Directorate, Washington, D.C. The Cassini orbiter and its two onboard cameras were designed, developed and assembled at JPL. The imaging operations center is based at the Space Science Institute in Boulder, Colo.
+For more information about the Cassini-Huygens mission, visit http://www.nasa.gov/cassini and http://saturn.jpl.nasa.gov. The Cassini imaging team homepage is at http://ciclops.org.
+Image Credit: NASA/JPL-Caltech/Space Science Institute</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/pia17162_full.jpg?itok=QrLoecGU" length="218141" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/jpl/cassini/pia17162</guid>
+ <pubDate>Tue, 29 Apr 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Curiosity Mars Rover Beside Sandstone Target &#039;Windjana&#039;</title>
+ <link>http://www.nasa.gov/jpl/msl/pia18086b</link>
+ <description>This image from the Navigation Camera (Navcam) on NASA&#039;s Curiosity Mars rover shows a sandstone slab on which the rover team has selected a target, &quot;Windjana,&quot; for close-up examination and possible drilling.  The target is on the approximately 2-foot-wide (60-centimeter-wide) rock seen in the right half of this view. 
+The Navcam&#039;s left-eye camera took this image during the 609th Martian day, or sol, of Curiosity&#039;s work on Mars (April 23, 2014). The rover&#039;s name is written on the covering for a portion of the robotic arm, here seen stowed at the front of the vehicle.
+The sandstone target&#039;s informal name comes from Windjana Gorge in Western Australia.  If this target meets criteria set by engineers and scientists, it could become the mission&#039;s third drilled rock and the first that is not mudstone.
+The rock is within a waypoint location called &quot;the Kimberley,&quot; where sandstone outcrops with differing resistance to wind erosion result in a stair-step pattern of layers.  Windjana is within what the team calls the area&#039;s &quot;middle unit,&quot; because it is intermediate between rocks that form buttes in the area and lower-lying rocks that show a pattern of striations.
+NASA&#039;s Jet Propulsion Laboratory, a division of the California Institute of Technology, Pasadena, manages the Mars Science Laboratory Project for NASA&#039;s Science Mission Directorate, Washington. JPL designed and built the project&#039;s Curiosity rover and the rover&#039;s Navcam.
+&gt; Read more: NASA&#039;s Curiosity Mars Rover Inspects Site
+Image Credit: NASA/JPL-Caltech</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/pia18086_sol609-lncam_0.jpg?itok=DM2KT8SB" length="635293" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/jpl/msl/pia18086b</guid>
+ <pubDate>Mon, 28 Apr 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+</channel>
+</rss>
