@@ -15,4 +15,8 @@ public class Hello {
 	public int resta(int a, int b){
 		return a - b;
 	}
+	
+	public int resta2(int a, int b){
+		return a - b;
+	}
 }
